@@ -1,0 +1,4 @@
+- olá meu nome é julia sgarbossa
+- meu email de contato é julia.sgarbossa@escola.pr.gov.br
+- eu estou interessado em apreder a progamar novas linguagens 
+- estou apredendo a progamar recentemente a linguagem de javascript e scrath
